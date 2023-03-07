@@ -1,0 +1,77 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "María José ",
+      "surnames": "Herraiz García ",
+      "title": "",
+      "description": "Soy María José, un desarrolladora backend con diez años de experiencia en PHP. He trabajado tanto en consultoría como en empresas de producto pero es en estas ultimas donde me siento mas cómoda. Durante mi carrera he adquirido experiencia trabajando con Symfony, y he tenido la oportunidad de trabajar en equipos de desarrollo, lo que me ha permitido aprender y expandir mis habilidades. Además, tengo experiencia en bases de datos como MySQL y Redis, así como en servicios de la nube como AWS. Creo que es importante mantener una actitud de aprendizaje continuo en un entorno en constante evolución. Estoy emocionado por seguir creciendo como desarrollador y ofrecer mis habilidades y experiencia a futuros proyectos.",
+      "location": {
+        "country": "España",
+        "region": "Castilla-La Mancha",
+        "municipality": "Cuenca",
+        "notes": "Autocompleted using Google Maps API"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/mariajose-herraiz"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English",
+        "level": "Professional working proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/mariajose-herraiz"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "PHP",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer"
+      ]
+    },
+    "status": "searchingActively"
+  }
+}
